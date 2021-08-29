@@ -3,7 +3,7 @@
 Proyecto con una arquitectura o esqueleto para uso para proyecto API
 Es una arquitectura simple, cuenta con lo siguiente
  - Health
--Swagger
+ - Swagger
 Es solo esqueleto, no hay clases.
 
 Proyectos:
